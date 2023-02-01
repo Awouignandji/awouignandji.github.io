@@ -130,17 +130,16 @@ experiences:
 
 
 
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: Risk Analyst and Risk Manager
+        time: 03/2010 - 12/2012
+        company: Afric Mutualité, NGO, Cotonou, Benin
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          - Data collection and data analysis.
+          - Identification of risks and potential threats, development of models and strategies for 
+          reducing financial risks and costs associated to educational and community development projects.
+          - Participation in strategic reflections on results-based management and performance-based 
+          financing mechanisms.
+
 projects:
     title: Projects
     intro: >
