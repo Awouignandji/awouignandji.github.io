@@ -61,7 +61,7 @@ career-profile:
     summary: |
       I am a data scientist with specialization in computational linguistics.
       I hold a Bachelor of Science in Education from Abomey-Calavi University,
-      (Benin, West Africa) and two Master's degrees: one in Education from Saint Michael's College  
+      (Benin, West Africa) and two Master's degrees: one in Education from Saint Michael's College 
       (Colchester, VT), and the other in Project Management from the International Institute of Management 
       (Benin, West Africa). I have a Ph.D. from the Indiana University of Pennsylvania (IUP) after successfully 
       defending my doctoral dissertation in Composition and Applied Linguistics.
@@ -70,28 +70,27 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: PhD in Composition and Applied Linguistics
+        university: University of Pennsylvania (IUP)
+        time: 2018 - 2022
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+
+      - degree: MSc in Education (TESOL)
+        university: Saint Michael College (USA)
+        time: 2013 - 2015
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+
+      - degree: MBA in Project Management
+        university: ESEP-Le Berger University (Benin)
+        time: 2008 - 2010
+        details: |
+
+      - degree: BSc in Education
+        university: University of Abomey-Calavi (Benin)
+        time: 2002 - 2006
+        details: |
+
+
 experiences:
     title: Experiences
     info:
