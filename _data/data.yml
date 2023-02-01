@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -59,12 +59,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a data scientist with specialization in computational linguistics.
+      I hold a Bachelor of Science in Education from Abomey-Calavi University,
+      (Benin, West Africa) and two Master's degrees: one in Education from Saint Michael's College  
+      (Colchester, VT), and the other in Project Management from the International Institute of Management 
+      (Benin, West Africa). I have a Ph.D. from the Indiana University of Pennsylvania (IUP) after successfully 
+      defending my doctoral dissertation in Composition and Applied Linguistics.
+      
+      
 education:
     title: Education
     info:
