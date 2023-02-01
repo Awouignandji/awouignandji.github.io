@@ -94,21 +94,26 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Writing Center Tutor
+        time: 2018 - Present
+        company: Kathleen Jones White Writing Center, UIP
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          * Performed one-on-one (online, synchronous, and asynchronous) tutoring sessions 
+          with undergraduates and graduates, helping them with their writing assignments, 
+          including summaries, response papers, essays, research papers, memos, lab findings 
+          and reports, paper editing, and senior theses.
+          * Helped student writers with their writing processes: pre-writing, brainstorming, 
+          freewriting, outlining, organizing, researching, revising, and drafting, revising, and polishing. 
+          * Helped writers acquired knowledge of disciplinary conventions, and confidence through 
+          advising them on the writing tasks at hand.
+          * Led Writing Center workshop presentations such as APA and MLA styles. 
+          * Designed an overview of Chicago style handout for IUP writing center users.
+          * Performed graduate editing service to advanced graduate students: Dissertation thesis 
+          formatting and editing.
+          * Run iThenticate and provided graduate students with an overview about any 
+          issues dealing with inappropriate use of sources. 
+
+
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
