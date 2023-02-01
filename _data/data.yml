@@ -114,17 +114,22 @@ experiences:
           issues dealing with inappropriate use of sources. 
 
 
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Temporary Faculty
+        time: 2018 - 2019
+        company: Indiana University of Pennsylvania, USA
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          * Responsibilities included teaching ENG 202 Composition II (Introduction to Research Writing), 
+          designing course syllabus, course schedule, lesson plans, classroom activities, and teaching 
+          research writing to sophomore and junior students using platforms like D2L and Moodle.
+          * This course, ENG 202, helped students build on the writing skills they developed 
+          in Composition I and Literature, developed students speaking, listening, reading, 
+          and writing, revising, and reflecting abilities. Students learned to evaluate resources
+          and integrate research to support their own argument, as well as their analytical and 
+          critical thinking. Students completed a research project and composed IMRD articles 
+          (Introduction, Methods, Results, Discussion).
+
+
+
       - role: UI Developer
         time: 2012 - 2014
         company: Amazon, London
