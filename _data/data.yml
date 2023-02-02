@@ -189,20 +189,20 @@ publications:
     intro: |
 
     papers:
-      - title: Border deconstruction and construction from the socio-cultural perspective':' Lessons from a legal case
+      - title: "Border deconstruction and construction from the socio-cultural perspective: Lessons from a legal case."
         link: "#"
         authors: Ylonfoun, A. E. and Aoulou H. E. 
-        conference: Addison-Wesley, 1968
+        conference: Inspiring Pedagogical Connections, Vol. 6, 66-74, (2021)
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "Wikipedia’s gender gap and disciplinary praxis: Representing women scholars in digital rhetoric and writing fields"
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: Vetter, M., Ylonfoun, E., Andelfinger, J., Cui, W., Jiang, J., Jones, T., Siddique, Z., Tanasale, I., & Xing, J. 
+        conference: "Journal of Multimodal Rhetorics, 2(2), 6-22, (2018)."
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: #A syntax directed compiler for Algol 60
+        link: #"#"
+        authors: #Edgar T. Irons
+        conference: #"Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
