@@ -183,7 +183,7 @@ oss:
       - title: "Phase 2: 10/2018 – 12/2018"
         link: #"#"
         tagline: #"Assessment of the impact of education on financial success using advanced ML and data science methodologies, Phase 3"
-      - title: "Phase 3: 07/2018 – 09/2019"
+      - title: "Phase 3: 07/2018 – 09/2018"
 
 publications:
     title: Publications
@@ -215,17 +215,17 @@ skills:
       - name: Javascript & jQuery
         level: 98%
 
-      - name: Angular
+      - name: R
         level: 98%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Machine Learning
+        level: 90%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Github & GitLab
+        level: 75%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Ebenezer A. Ylonfoun</a>
