@@ -168,13 +168,13 @@ projects:
 oss:
     title: Consultancies
     intro: |
-      - HSBC Arlington Heights IL, USA.
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
+      
+      
     contributions:
-      - title: #Tempo
+      - title: "HSBC Arlington Heights IL, USA"
         link: #"#"
-        tagline: #"A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Assessment of the impact of education on financial success using advanced ML and data science methodologies, Phase 1"
 
       - title: # Atom
         link: #"#"
