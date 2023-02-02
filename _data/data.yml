@@ -172,17 +172,18 @@ oss:
       
       
     contributions:
-      - title: "HSBC Arlington Heights IL, USA. 01/2019 – 04/2019"
+      - title: "HSBC Arlington Heights IL, USA."
         link: #"#"
-        tagline: "Assessment of the impact of education on financial success using advanced ML and data science methodologies, Phase 1"
+        tagline: "Assessment of the impact of education on financial success using advanced ML and data science methodologies."
 
-      - title: "HSBC Arlington Heights IL, USA. 10/2018 – 12/2018"
+      - title: "Phase 1: 01/2019 – 04/2019"
         link: #"#"
-        tagline: "Assessment of the impact of education on financial success using advanced ML and data science methodologies, Phase 2."
+        tagline: #"Assessment of the impact of education on financial success using advanced ML and data science methodologies, Phase 2."
 
-      - title: "HSBC Arlington Heights IL, USA. 07/2018 – 09/2019"
+      - title: "Phase 2: 10/2018 – 12/2018"
         link: #"#"
-        tagline: "•	Assessment of the impact of education on financial success using advanced ML and data science methodologies, Phase 3"
+        tagline: #"Assessment of the impact of education on financial success using advanced ML and data science methodologies, Phase 3"
+      - title: "Phase 3: 07/2018 – 09/2019"
 
 publications:
     title: Publications
