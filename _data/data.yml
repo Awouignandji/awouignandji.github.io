@@ -200,10 +200,10 @@ publications:
         authors: Vetter, M., Ylonfoun, E., Andelfinger, J., Cui, W., Jiang, J., Jones, T., Siddique, Z., Tanasale, I., & Xing, J. 
         conference: "Journal of Multimodal Rhetorics, 2(2), 6-22, (2018)."
 
-      - title: #A syntax directed compiler for Algol 60
-        link: #"#"
-        authors: #Edgar T. Irons
-        conference: #"Comm. ACM 4 (1961), 51–55"
+       #title: #A syntax directed compiler for Algol 60
+        #link: #"#"
+        #authors: #Edgar T. Irons
+        #conference: #"Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
